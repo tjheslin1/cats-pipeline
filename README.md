@@ -1,1 +1,1 @@
-# cats-pipeline
+# dogs-pipeline
